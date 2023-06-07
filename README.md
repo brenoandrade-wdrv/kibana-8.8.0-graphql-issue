@@ -1,4 +1,4 @@
-# Wind
+# Kibana External Plugin
 
 This repository addresses issues related to bundling Kibana plugins using GraphQL and Apollo Client.
 
