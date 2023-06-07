@@ -22,6 +22,6 @@ This environment aims to deploy an external Kibana plugin that utilizes simple G
   <dt><code>docker-compose up OR docker-compose up -d</code></dt>
   <dd>Executes this command to start the containers and wait for Kibana to become available.</dd>
 
-  <dt>Launch http://localhost:5602/ in your browser</dt>
+  Launch http://localhost:5602/ in your browser
     <dd>Attempting to access the external plugin will result in errors being displayed in the browser's console.</dd>
 </dl>
