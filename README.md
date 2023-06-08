@@ -19,7 +19,7 @@ This environment aims to deploy an external Kibana plugin that utilizes simple G
   <dd>1. Pulls and builds the official Elasticsearch 8.8.0 and Kibana images.</dd>
   <dd>2. Transfers the external plugin to the Kibana container and installs it within the container using the Dockerfile in the Kibana Docker context.</dd>
 
-  <dt><code>docker-compose up OR docker-compose up -d</code></dt>
+  <dt><code>docker-compose up</code></dt>
   <dd>Executes this command to start the containers and wait for Kibana to become available.</dd>
 
   Launch http://localhost:5602/ in your browser
